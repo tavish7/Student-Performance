@@ -1,0 +1,9 @@
+# list library names to use
+
+numpy
+pandas
+#-e .
+# used to automatically calls setup.py
+
+# to install the packages simply write 
+# pip install -r requirements.txt
