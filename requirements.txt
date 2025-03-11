@@ -2,6 +2,10 @@
 
 numpy
 pandas
+python-dotenv # helps to read env variables
+mysql-connector-python
+pymysql
+scikit-learn
 #-e .
 # used to automatically calls setup.py
 
